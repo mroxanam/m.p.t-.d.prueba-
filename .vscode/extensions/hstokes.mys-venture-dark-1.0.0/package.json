@@ -1,0 +1,61 @@
+{
+	"name": "mys-venture-dark",
+	"displayName": "mys-venture",
+	"description": "Mys-Venture color theme",
+	"version": "1.0.0",
+	"publisher": "HStokes",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HHStokes/mys-venture-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark",
+		"mysventure",
+		"mys",
+		"venture",
+		"mys-venture",
+		"H Stokes",
+		"blue",
+		"blue theme",
+		"night",
+		"javascript",
+		"typescript",
+		"javascript theme",
+		"typescript theme",
+		"dark theme",
+		"dark blue",
+		"blue theme",
+		"dark blue theme",
+		"blue theme dark",
+		"cool",
+		"cool theme",
+		"blue theme dark"
+	],
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Mys-Venture Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Mys-Venture Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "739214a6-e472-45d9-aef4-543e8a3d394f",
+		"publisherId": "85c467d5-9bd1-4757-97dc-9482bcd8509e",
+		"publisherDisplayName": "H Stokes",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1667517068516,
+		"preRelease": false
+	}
+}
